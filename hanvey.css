@@ -2,265 +2,285 @@
 /* --- northway --- */
 
 body {
-	margin: 0px;
-	color: #75570b;
-	font-size: 12px;
-	font-family: "Trebuchet MS",Arial, Verdana, Univers;
-	background-color: #CDD0D4;
-	background-repeat: repeat;
+    margin: 0;
+    color: #75570b;
+    font-size: 12px;
+    font-family: "Trebuchet MS", Arial, Verdana, Univers, sans-serif;
+    background-color: #CDD0D4;
+    background-repeat: repeat;
 }
 
-h1 { color: #5c554e; font-size: 16px; font-weight: bold; margin: 3px 0px 10px 0px; }
+h1 {
+    color: #5c554e;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 3px 0 10px 0;
+}
 
-a          { color: #ba7007; }
-a:visited  { color: #ba7007; }
-a:hover    { color: black; }
+a {
+    color: #ba7007;
+}
+
+a:visited {
+    color: #ba7007;
+}
+
+a:hover {
+    color: black;
+}
 
 .container {
-	width: 908px;
-	margin-left: auto;
-	margin-right: auto;
-	background-color: #ffffff;
+    width: 908px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
 }
 
 /* BANNER AREA */
 .bannerArea {
-	width: 908px;
+    width: 908px;
 }
 
 .bannerNav {
-	width: 850px;
-	margin: 0px 0px 30px 10px;
-	#margin-bottom: 10px; /* for IE */
-	color: #6b7e7e;
-	font-size: 12px;
-	font-weight: bold;		
+    width: 850px;
+    margin: 0 0 30px 10px;
+    #margin-bottom: 10px; /* for IE */
+    color: #6b7e7e;
+    font-size: 12px;
+    font-weight: bold;
 }
 
-.bannerNav li{
-	list-style: none;
-	float:left;
-	margin: 0px 20px 0px 0px;
-	#margin-left: 20px; /* for IE */
+.bannerNav li {
+    list-style: none;
+    float: left;
+    margin: 0 20px 0 0;
+    #margin-left: 20px; /* for IE */
 }
 
-.bannerNav a{
-	margin-left: 0px;
-	color: #637575;/*#6b7e7e;*/
-	text-decoration: none;
-}
-.bannerNav a:visited{
-	color: #637575;/*#6b7e7e;*/
+.bannerNav a {
+    margin-left: 0;
+    color: #637575; /*#6b7e7e;*/
+    text-decoration: none;
 }
 
-.bannerNav a:hover{
-	color: #000000;
+.bannerNav a:visited {
+    color: #637575; /*#6b7e7e;*/
+}
+
+.bannerNav a:hover {
+    color: #000000;
 }
 
 .bannersubnav {
-	padding-top: 20px;
-	padding-right: 20px;
-	float: right;
-	color: #3e75a6;
-	font-size: 10px;
-	font-weight: bold;
-	font-family: Verdana,Arial, Helvetica , sans-serif;
+    padding-top: 20px;
+    padding-right: 20px;
+    float: right;
+    color: #3e75a6;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
-.bannersubnav a { color: #3e75a6; text-decoration: none; padding-left: 5px; padding-right: 5px; }
-.bannersubnav a:visited { color: #3e75a6; }
-.bannersubnav a:hover { color: #000000; text-decoration: none; }
+.bannersubnav a {
+    color: #3e75a6;
+    text-decoration: none;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.bannersubnav a:visited {
+    color: #3e75a6;
+}
+
+.bannersubnav a:hover {
+    color: #000000;
+    text-decoration: none;
+}
 
 .toplogo {
-	margin-left: 0px;
-	margin-bottom: 8px;
-	padding-top: 0px;
+    margin-left: 0;
+    margin-bottom: 8px;
+    padding-top: 0;
 }
 
 .navigationArea {
-	width: 908px;
-	border-bottom: solid;
-	border-color: #75570b;
-	border-width: 1px;
+    width: 908px;
+    border-bottom: solid;
+    border-color: #75570b;
+    border-width: 1px;
 }
 
 .nomove {
-	font-family: "Trebuchet MS", Helvetica, Verdana, Arial, sans-serif;
-	font-size: 14px;
-	color: #ffffff;
-	margin: 0px;
-	padding: 4px 30px 4px 55px;
-	border-top: solid;
-	border-color: #75570b;
-	border-width: 1px;
-	font-weight: bold;
-	background-position: 0px 0px;
-	background-repeat: no-repeat;
-	background-color: #6b7e7e;
+    font-family: "Trebuchet MS", Helvetica, Verdana, Arial, sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+    margin: 0;
+    padding: 4px 30px 4px 55px;
+    border-top: solid;
+    border-color: #75570b;
+    border-width: 1px;
+    font-weight: bold;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-color: #6b7e7e;
 }
 
 .panelContent {
-	overflow: auto;
-	margin: 0px;
-	padding: 0px;
-	color: #5c554e;
-	background-color: #E4EDED;
-	z/oom: 1;  /* Hack for IE to force auto height for the content panels  */
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+    color: #5c554e;
+    background-color: #E4EDED;
 }
 
 .panelContent .acontent {
-	padding: 20px 30px 10px 45px;
+    padding: 20px 30px 10px 45px;
 }
 
 .serieslist {
-	margin-top: 20px;
-	width: 95%;
+    margin-top: 20px;
+    width: 95%;
 }
 
 .serieslist div {
-	min-height: 75px;
-	margin-bottom: 10px;
+    min-height: 75px;
+    margin-bottom: 10px;
 }
 
 .series-header {
-	float: left;
-	width: 225px;
-	clear: both;
+    float: left;
+    width: 225px;
+    clear: both;
 }
 
 .series-header img {
-	width: 70px;
-	height: 50px;
-	margin: 2px 10px 0px 10px;
-	border:1px solid #dbcfb0;
-	float: left;
+    width: 70px;
+    height: 50px;
+    margin: 2px 10px 0 10px;
+    border: 1px solid #dbcfb0;
+    float: left;
 }
 
 .seriestitle {
-	font-size: 13px;
-	font-weight:bold;
-	text-decoration: none;
-	margin-left: 95px;
-	display: block;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 95px;
+    display: block;
 }
 
 .series-description {
-	margin-left: 240px;
+    margin-left: 240px;
 }
 
 .series-header a {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 /* Custom Classes  */
 
 .seriesContent {
-	overflow: auto;
-	margin: 0px;
-	padding: 0px;
-	color: #5c554e;
-	background-color: #E4EDED;
-	z/oom: 1;  /* Hack for IE to force auto height for the content panels  */
-	padding: 20px 15px 10px 45px;
+    overflow: auto;
+    margin: 0;
+    color: #5c554e;
+    background-color: #E4EDED;
+    padding: 20px 15px 10px 45px;
 }
 
 /* CONTENT AREA */
 
 .contentArea {
-	width: 908px;
-	padding-top: 15px;
-	padding-bottom: 20px;
+    width: 908px;
+    padding-top: 15px;
+    padding-bottom: 20px;
 }
 
 .contentleftindex {
-	width: 800px;
-	margin: 0 auto;
+    width: 800px;
+    margin: 0 auto;
 }
 
 .contentleftindex .using {
-	font-size:14px; 
-	margin-bottom:-8px;
-	font-weight:bold;
-	}
-
-.showindex {
-	margin-top: 10px;
-	margin-left: 10px;
-	margin-bottom: 10px;
-	margin-right: 30px;
-	height:300px;
-	float: right;
-	border:1px solid #dbcfb0;
+    font-size: 14px;
+    margin-bottom: -8px;
+    font-weight: bold;
 }
 
-.small {font-size:10px;
-	font-weight:normal;
-	}
+.showindex {
+    margin: 10px 30px 10px 10px;
+    height: 300px;
+    float: right;
+    border: 1px solid #dbcfb0;
+}
+
+.small {
+    font-size: 10px;
+    font-weight: normal;
+}
 
 .imageleft {
-	margin-right: 30px;
-	margin-bottom: 10px;
-	margin-top:10px;
-	float: left;
-	border:1px solid #dbcfb0;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    float: left;
+    border: 1px solid #dbcfb0;
 }
 
 /* FOOTER AREA */
 .footerArea {
-	width: 908px;
-	height: 50px;
+    width: 908px;
+    height: 50px;
 }
 
 .copyright {
-	border-top: dotted;
-	border-color: #75570b;
-	border-width: 2px;
-	margin-left: 30px;
-	margin-right: 30px;
-	padding-top: 12px;
-	color: #a08950;
-	font-size: 12px;
+    border-top: dotted;
+    border-color: #75570b;
+    border-width: 2px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 12px;
+    color: #a08950;
+    font-size: 12px;
 }
 
-.copyright a{
-	color: #a08950;
-	font-size: 12px;
-	text-decoration:none;
+.copyright a {
+    color: #a08950;
+    font-size: 12px;
+    text-decoration: none;
 }
 
 .url {
-	float:right;
-	margin-right: 20px;
-	padding-top: 6px;
-	color: #a08950;
-	font-size: 12px;
+    float: right;
+    margin-right: 20px;
+    padding-top: 6px;
+    color: #a08950;
+    font-size: 12px;
 }
 
-.url a{
-	float:right;
-	color: #a08950;
-	font-size: 12px;
+.url a {
+    float: right;
+    color: #a08950;
+    font-size: 12px;
 }
 
 /* SLIDER OVER WRITES FROM 2018 */
 
 .slick-slider {
-	margin-bottom: 15px;
+    margin-bottom: 15px;
 }
 
 .slick-list {
-	max-width: 800px;
-	max-height: 600px;
-	overflow: hidden;
+    max-width: 800px;
+    max-height: 600px;
+    overflow: hidden;
 }
 
 .slick-list img {
-	min-width: 100%;
-	min-height: 
+    min-width: 100%;
 }
 
 .slick-prev::before, .slick-next::before {
-	opacity: 1 !important;
-	color: #7e6b6b !important;
+    opacity: 1 !important;
+    color: #7e6b6b !important;
 }
 
