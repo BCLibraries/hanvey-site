@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery title="Bobbie Hanvey Photographic Archives" description="The documentation of people and life in the North of Ireland beginning in the 1970’s through circa 2007">
+    
+	<album id="ssp" lgPath="gallery/mix/images/" tnPath="gallery/mix/thumb/" fspath="gallery/mix/fs/" title="Preview of the Collection"  tn="gallery/mix/preview.jpg">
+	
+      <img src="1.jpg" id="id1" title="Seamus Heaney, portraits taken shortly after winning the 1995 Nobel Prize, 1996."   target="_blank" pause="" />
+		
+		<img src="2.jpg" id="id2" title="Arson attack at Canon's Hall, Downpatrick. PIRA attack, 1970s."   target="_blank" pause="" />
+		
+		<img src="3.jpg" id="id3" title="Flynn family, travelling family posing with their new Volvo car, near Downpatrick, 1990s."   target="_blank" pause="" />
+		
+		<img src="4.jpg" id="id4" title="Rev. [J.C.] Pedlow, fiction writer. Downpatrick, 1970s"   target="_blank" pause="" />
+		
+		<img src="5.jpg" id="id5" title="Seamus Heaney with his family and at a party at home in Dublin, 1979."  target="_blank" pause="" />
+		
+		<img src="6.jpg" id="id6" title="PIRA arson attack on Brown's Paint and Wallpaper Shop, Ballynahinch, Co. Down, 1970s."   target="_blank" pause="" />
+		
+		<img src="7.jpg" id="id7" title="Sam Hanna Bell, writer, and BBC producer and broadcaster, 1980s."   target="_blank" pause="" />
+		
+		<img src="8.jpg" id="id8" title="Travellers in Newry doing their washing at a stand up tap, mid-1980s."   target="_blank" pause="" />
+		
+		 <img src="9.jpg" id="id9" title="Suzanne Breen, Northern Ireland political journalist with the 'Irish Times,' 1990s."  target="_blank" pause="" />
+		 
+		 <img src="10.jpg" id="id10" title="Seamus Heaney with guests at opening of Bellaghy Bawn, a museum dedicated to him at Bellaghy, Co. Derry, 1996."  target="_blank" pause="" />
+		 
+		 <img src="11.jpg" id="id11" title="Neil Shawcross, painter from Belfast, 1991."  target="_blank" pause="" />
+		 
+		 <img src="12.jpg" id="id12" title="Traveller children on the Glen Road, Belfast, early 1980s."   target="_blank" pause="" />
+		 
+		 <img src="13.jpg" id="id13" title="Marie Heaney, late 1980s."  target="_blank" pause="" />
+		 
+		 
+		 <img src="17.jpg" id="id11" title="Apprentice Boys at Scarva, 1979."  target="_blank" pause="" />
+		 
+		 <img src="18.jpg" id="id12" title="Brother Paul McKeown, inventor of wheelchair canopy, 1990s."   target="_blank" pause="" />
+		 
+		 <img src="19.jpg" id="id13" title="Canon Bernard Magee, Co. Down, 1990s."  target="_blank" pause="" />
+		 
+		 
+		
+    </album>
+	
+	
+	
+	<album id="ssp2" lgPath="gallery/bombs/images/" title="Bombs and Violence" tnPath="gallery/bombs/thumb/" fspath="gallery/bombs/fs/"  tn="gallery/bombs/preview.jpg">
+
+   <!-- <img src="1.jpg" id="id1" title="Attack on O'Donnell's Pub" caption="Pub explosion, PIRA attack on Jim O'Donnell's pub in Brookeborough, Co. Fermanagh." link="http://hdl.handle.net/2345/886" target="_blank" pause="" />-->
+		
+		<img src="2.jpg" id="id2" title="Arson attack at Canon's Hall, Downpatrick. PIRA attack, 1970s."   target="_blank" pause="" />
+		
+		<img src="3.jpg" id="id3" title="Arson attack at Canon's Hall, Downpatrick. PIRA attack, 1970s."   target="_blank" pause="" />
+		
+		<img src="4.jpg" id="id4" title="PIRA arson attack on Brown's Paint and Wallpaper Shop, Ballynahinch, Co. Down, the British Army and others, 1970s."   target="_blank" pause="" />
+		
+		<img src="5.jpg" id="id5" title="TV crew, including award winning cameraman Ted Adcock and legendary journalist Peter Taylor, 1970s."   target="_blank" pause="" />
+		
+		<img src="6.jpg" id="id6" title="Bomb, Belfast City Centre, 1970s."   target="_blank" pause="" />
+		
+		<img src="7.jpg" id="id7" title="Arson attack on Blayney's Furniture Shop in Downpatrick, 1970s. "   target="_blank" pause="" />
+		
+		<img src="8.jpg" id="id8" title="Fire (malicious) at the business premises of Hugh J. O'Boyle, building contractor, Downpatrick, 1970s."   target="_blank" pause="" />
+		
+		<img src="9.jpg" id="id9" title="Ship Owen Kersten, impounded by the British Army at Warrenpoint, 1970s."  target="_blank" pause="" />
+		
+	<img src="10.jpg" id="id10" title="PIRA Bomb, Belfast City Centre"  target="_blank" pause="" />
+		
+		<img src="11.jpg" id="id11" title="Car Bomb, Chichester Street, Belfast, 1980s."   target="_blank" pause="" />
+		
+		<img src="12.jpg" id="id12" title="Drogue Bomb Warning Sign"   target="_blank" pause="" /> 
+		
+		<img src="13.jpg" id="id13" title="Suspect bomb at Newcastle, Co. Down, 1980s"  target="_blank" pause="" />
+		
+		<img src="14.jpg" id="id14" title="British Army search for explosives"   target="_blank" pause="" />
+		
+		<img src="15.jpg" id="id15" title="Burnt-out car and buildings in Downpatrick, firemen putting out the fire, 1980s."  target="_blank" pause="" />
+		
+		<img src="16.jpg" id="id16" title="Oak Grill Restaurant shooting"   target="_blank" pause="" />
+		
+    </album>
+	
+		<album id="ssp3" lgPath="gallery/writers/images/" title="Writers, Poets, Journalists and Artists" tnPath="gallery/writers/thumb/" fspath="gallery/writers/fs/"  tn="gallery/writers/preview.jpg">
+		
+		  <img src="1.jpg" id="id1" title="Larry McCoubrey, former BBC TV newsreader, with wife and child, 1970s."  target="_blank" pause="" />
+		
+		<img src="2.jpg" id="id2" title="John D. Stewart, writer and journalist. Pictured at Queen’s University Belfast, 1970s."   target="_blank" pause="" />
+		
+		<img src="3.jpg" id="id3" title="Willie Mulhall, painter from Ardglass, Co. Down. Also known as a colorful character, 1973."   target="_blank" pause="" />
+		
+		<img src="4.jpg" id="id4" title="Rev. [J.C.] Pedlow, fiction writer. Downpatrick, 1970s."   target="_blank" pause="" />
+		
+		<img src="5.jpg" id="id5" title="Tony McAuley, BBC producer, radio presenter and folksinger [1970s?]."   target="_blank" pause="" />
+		
+		<img src="6.jpg" id="id6" title="Willie Mulhall, painter from Ardglass, Co. Down. Also known as a colorful character, 1996 or 2000."   target="_blank" pause="" />
+		
+		 <img src="7.jpg" id="id7" title="Sam Hanna Bell, writer, and BBC producer and broadcaster, 1980s."  target="_blank" pause="" />
+		 
+		 <img src="8.jpg" id="id8" title="Niall Toibin, Irish actor, having a pint in Robinson’s Bar in Belfast, 1980s."  target="_blank" pause="" />
+			  
+		<img src="9.jpg" id="id9" title="David Dunseith, radio and TV presenter with Ulster’s most famous cartoonist, Rowel Friars, 1980s."  target="_blank" pause="" />
+				  
+		 <img src="10.jpg" id="id10" title="Suzanne Breen, Northern Ireland political journalist with the 'Irish Times,' 1990s."  target="_blank" pause="" />
+		 
+	 	<img src="11.jpg" id="id11" title="Neil Shawcross, painter from Belfast, 1991."  target="_blank" pause="" />		
+		
+		<img src="12.jpg" id="id12" title="Rita Duffy, artist, 1995."  target="_blank" pause="" />			  
+		
+		<img src="13.jpg" id="id13" title="Sam McAughtry, writer and journalist, with his wife, 1990s."  target="_blank" pause="" />			  
+		
+		<img src="14.jpg" id="id14" title="Jim Campbell, former editor of the Sunday World (newspaper)."  target="_blank" pause="" />
+		
+		 <img src="15.jpg" id="id15" title="Terence 'T.P.' Flanagan, painter, Belfast, 1990s."  target="_blank" pause="" /> 
+			 
+		</album>
+		
+		
+	<album id="ssp4" lgPath="gallery/travelling/images/" title="The Travelling People" tnPath="gallery/travelling/thumb/" fspath="gallery/travelling/fs/"  tn="gallery/travelling/preview.jpg">
+	
+	<img src="1.jpg" id="id1" title="Flynn family, travelling family posing inside their new caravan, near Downpatrick, 1990s."  target="_blank" pause="" />
+		
+		<img src="2.jpg" id="id2" title="Flynn family, travelling family posing inside their new caravan, near Downpatrick, 1990s."   target="_blank" pause="" />
+		
+		<img src="3.jpg" id="id3" title="Flynn family, travelling family posing with their new Volvo car, near Downpatrick, 1990s."   target="_blank" pause="" />
+		
+		<img src="4.jpg" id="id4" title="Travellers in Newry doing their washing at a stand up tap, mid-1980s."   target="_blank" pause="" />
+		
+		<img src="5.jpg" id="id5" title="Traveller mothers with their babies, mid-1980s."   target="_blank" pause="" />
+		
+		<img src="6.jpg" id="id6" title="Group of traveller children, one holding rooster (cockerel), in front of INLA graffiti on wall, mid-1980s."   target="_blank" pause="" />
+	
+	<img src="7.jpg" id="id7" title="Bobbie Hanvey interviewing group of travellers for his Downtown Radio program 'The Ramblin' Man,' 1978."   target="_blank" pause="" />	
+	
+	<img src="8.jpg" id="id8" title="Traveller child on the Glen Road, Belfast, early 1980s."   target="_blank" pause="" />
+	
+	<img src="9.jpg" id="id9" title="Travellers, including Paddy Noonan and his family visiting from New York, on the Glen Road, Belfast, early 1980s."   target="_blank" pause="" />
+	
+	<img src="10.jpg" id="id10" title="Group of travellers with children taken on the Glen Road, Belfast, early 1980s."   target="_blank" pause="" />
+	
+		<img src="11.jpg" id="id11" title="Group of travellers with children taken on the Glen Road, Belfast, early 1980s."   target="_blank" pause="" />
+	
+	<img src="12.jpg" id="id12" title="Traveller children on the Glen Road, Belfast, early 1980s."   target="_blank" pause="" />	
+	
+	<img src="13.jpg" id="id13" title="Traveller children on the Glen Road, Belfast, early 1980s."   target="_blank" pause="" />	
+	
+	<img src="14.jpg" id="id14" title="Traveller family being evicted from Ballyduggan Road, layby, Downpatrick, 1980s."   target="_blank" pause="" />	
+		
+	<img src="15.jpg" id="id15" title="Traveller family being evicted from Ballyduggan Road, layby, Downpatrick, 1980s."   target="_blank" pause="" />	
+	
+	</album>
+	
+	<album id="ssp5" lgPath="gallery/heaney/images/" title="Seamus Heaney" tnPath="gallery/heaney/thumb/" fspath="gallery/heaney/fs/"  tn="gallery/heaney/preview.jpg">
+
+
+  <img src="1.jpg" id="id1" title="Seamus Heaney with his family and at a party at home in Dublin, 1979."  target="_blank" pause="" />
+		
+		<img src="2.jpg" id="id2" title="Seamus Heaney with his family at home in Dublin, 1979."  target="_blank" pause="" />
+		
+		<img src="3.jpg" id="id3" title="Seamus Heaney at home in Dublin, 1996."  target="_blank" pause="" />
+		
+		<img src="4.jpg" id="id4" title="Seamus Heaney at home in Dublin, 1996."   target="_blank" pause="" />
+		
+		<img src="5.jpg" id="id5" title="Seamus Heaney on Sandymount Pier, Dublin, 1996." target="_blank" pause="" />
+		
+		<img src="6.jpg" id="id6" title="Seamus Heaney at his old primary school, Anahorish, Bellaghy, Co. Derry, Spring 1996."  target="_blank" pause="" />
+		
+		<img src="7.jpg" id="id7" title="Seamus Heaney, portraits taken shortly after winning the 1995 Nobel Prize, 1996."  target="_blank" pause="" />
+		
+		<img src="8.jpg" id="id8" title="Seamus Heaney with guests at opening of Bellaghy Bawn, a museum dedicated to him at Bellaghy, Co. Derry, 1996."  target="_blank" pause="" />
+		
+		<img src="9.jpg" id="id9" title="Seamus Heaney in the kitchen of his Dublin home, circa 1993."  target="_blank" pause="" />
+		
+		<img src="10.jpg" id="id10" title="Seamus Heaney with guests at opening of Bellaghy Bawn, a museum dedicated to him at Bellaghy, Co. Derry, 1996."  target="_blank" pause="" />
+		
+		<img src="11.jpg" id="id11" title="Seamus Heaney with guests at the July Bellaghy Bawn, a museum dedicated to him at Bellaghy, Co. Derry, 1996."  target="_blank" pause="" />
+		
+		<img src="12.jpg" id="id12" title="Seamus Heaney at the Irish Poets Conference, Slieve Donard Hotel in Newcastle, Co. Down in September 1988."  target="_blank" pause="" /> 
+		
+		<img src="13.jpg" id="id13" title="Marie Heaney, late 1980s."  target="_blank" pause="" />
+		
+		<img src="14.jpg" id="id14" title="Seamus Heaney with his two brothers, wife and children at Bellaghy, early 1980s."  target="_blank" pause="" />
+		
+		<img src="15.jpg" id="id15" title="Seamus Heaney at a turf bog in Bellaghy, 1986."  target="_blank" pause="" />
+		
+		<img src="16.jpg" id="id16" title="Seamus Heaney at a turf bog in Bellaghy, 1986."  target="_blank" pause="" />
+
+    </album>
+	
+
+</gallery>
